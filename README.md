@@ -1,10 +1,10 @@
-### About me:�
-## I want to learn coding to be able to solve problems that occur everyday or spontaneous.
-## I have some basic Java skills.
-# I had to use BlueJ but I use IntelliJ in my free time.
-## If you are interested in helping me to learn, just let me know.
-# I hope to find small projects to collaborate on even with lower skill level but the chance to improve.
-## I love Star Wars and I listen to Metal.
+# About me:
+## - I want to learn coding to be able to solve problems that occur everyday or spontaneous.
+## - I have some basic Java skills.
+## - I had to use BlueJ but I use IntelliJ in my free time.
+## - If you are interested in helping me to learn, just let me know.
+## - I hope to find small projects to collaborate on even with lower skill level but the chance to improve.
+## - I love Star Wars and I listen to Metal.
 
 <!--
 **Anni-Hilator/Anni-Hilator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
